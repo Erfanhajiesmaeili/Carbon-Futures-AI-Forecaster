@@ -42,20 +42,22 @@ Heatmap validation ensures no multicollinearity and confirms the strong positive
 ---
 
 ## ⚙️ How to Run
-1.  Clone the repository:
+## ⚙️ How to Run
+1.  **Clone the repository:**
     ```bash
-    git clone [https://github.com/YOUR_USERNAME/Carbon-Futures-AI.git](https://github.com/YOUR_USERNAME/Carbon-Futures-AI.git)
+    git clone [https://github.com/Erfanhajiesmaeili/Carbon-Futures-AI-Forecaster.git](https://github.com/YOUR_USERNAME/Carbon-Futures-AI-Forecaster.git)
+    cd Carbon-Futures-AI-Forecaster
     ```
-2.  Install dependencies:
+
+2.  **Install dependencies:**
     ```bash
     pip install -r requirements.txt
     ```
-3.  Run the main model script:
-    ```bash
-    python src/main_model.py
-    ```
 
----
+3.  **Execute the Project:**
+    Since this project is research-focused, the main logic is contained in a Jupyter Notebook.
+    * Open `Carbon-Futures-AI.ipynb` in **Jupyter Lab**, **VS Code**, or **Google Colab**.
+    * Run all cells to reproduce the data gathering, FinBERT sentiment analysis, and LSTM training pipeline.
 
 ## 📈 Results Overview
 | Metric | Value | Interpretation |
