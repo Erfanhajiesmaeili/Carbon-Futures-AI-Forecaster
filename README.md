@@ -42,10 +42,9 @@ Heatmap validation ensures no multicollinearity and confirms the strong positive
 ---
 
 ## ⚙️ How to Run
-## ⚙️ How to Run
 1.  **Clone the repository:**
     ```bash
-    git clone [https://github.com/Erfanhajiesmaeili/Carbon-Futures-AI-Forecaster.git](https://github.com/YOUR_USERNAME/Carbon-Futures-AI-Forecaster.git)
+    git clone [https://github.com/Erfanhajiesmaeili/Carbon-Futures-AI-Forecaster.git](https://github.com/Erfanhajiesmaeili/Carbon-Futures-AI-Forecaster.git)
     cd Carbon-Futures-AI-Forecaster
     ```
 
